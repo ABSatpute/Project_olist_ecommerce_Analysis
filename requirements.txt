@@ -1,0 +1,11 @@
+
+# It lists the packages required for the project along with their versions.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+jupyter
+plotly
+dash
